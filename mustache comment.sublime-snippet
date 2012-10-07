@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\{\{! ${1:comment} \}\}
+]]></content>
+    <tabTrigger>mc</tabTrigger>
+    <description>Mustache Comment</description>
+    <scope>text.html.mustache</scope>
+</snippet>

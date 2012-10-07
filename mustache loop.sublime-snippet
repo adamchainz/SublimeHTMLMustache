@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+\{\{# ${1:variable} \}\}
+${2:loop code}
+\{\{/ ${1:variable} \}\}
+]]></content>
+    <tabTrigger>ml</tabTrigger>
+    <description>Mustache Loop</description>
+    <scope>text.html.mustache</scope>
+</snippet>

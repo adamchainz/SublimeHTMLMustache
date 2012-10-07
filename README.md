@@ -8,7 +8,15 @@ How to Use
 
 Set syntax to "HTML Mustache". Use the following snippets:
 
-`mv` ('mustache variable') -> `{{ variable }}`
+`mc` ('Mustache Comment') -> `{{! comment }}`
+`mv` ('Mustache Variable') -> `{{ variable }}`
+`mvs` ('Mustache Variable (Safe)') -> `{{& variable }}`
+`mp` ('Mustache Partial') -> `{{> partial }}`
+`mi` ('Mustache If') -> `{{# variable }}what_to_do{{/ variable }}`
+`ml` ('Mustache Loop') - like an if but with new lines
+`mn` ('Mustache Not') -> `{{# variable }}what_to_do_if_not{{/ variable }}`
+`mnb` ('Mustache Not Block') - like a not but with new lines
+`mie` ('Mustache If/Else') -> Double If then Not construct spread over lines
 
 
 License

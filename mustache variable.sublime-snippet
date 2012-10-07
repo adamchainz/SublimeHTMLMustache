@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\{\{ ${1:variable} \}\}
+]]></content>
+    <tabTrigger>mv</tabTrigger>
+    <description>Mustache Variable</description>
+    <scope>text.html.mustache</scope>
+</snippet>

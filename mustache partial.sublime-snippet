@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\{\{> ${1:partial} \}\}
+]]></content>
+    <tabTrigger>mp</tabTrigger>
+    <description>Mustache Partial</description>
+    <scope>text.html.mustache</scope>
+</snippet>

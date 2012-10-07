@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\{\{^ ${1:variable} \}\}${2:what_to_do_if_not}\{\{/ ${1:variable} \}\}]]></content>
+    <tabTrigger>mn</tabTrigger>
+    <description>Mustache Not</description>
+    <scope>text.html.mustache</scope>
+</snippet>
