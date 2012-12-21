@@ -17,40 +17,42 @@ Set syntax to "HTML Mustache". Use the following snippets:
     </thead>
     <tbody>
         <tr>
-            <td>`mc` ('Mustache Comment')</td>
-            <td>`{{! comment }}`</td>
+            <td>
+                <code>mc</code> ('Mustache Comment')
+            </td>
+            <td><code>{{! comment }}</code></td>
         </tr>
         <tr>
-            <td>`mv` ('Mustache Variable')</td>
-            <td>`{{ variable }}`</td>
+            <td><code>mv</code> ('Mustache Variable')</td>
+            <td><code>{{ variable }}</code></td>
         </tr>
         <tr>
-            <td>`mvs` ('Mustache Variable (Safe)')</td>
-            <td>`{{& variable }}`</td>
+            <td><code>mvs</code> ('Mustache Variable (Safe)')</td>
+            <td><code>{{& variable }}</code></td>
         </tr>
         <tr>
-            <td>`mp` ('Mustache Partial')</td>
-            <td>`{{> partial }}`</td>
+            <td><code>mp</code> ('Mustache Partial')</td>
+            <td><code>{{> partial }}</code></td>
         </tr>
         <tr>
-            <td>`mi` ('Mustache If')</td>
-            <td>`{{# variable }}what_to_do{{/ variable }}`</td>
+            <td><code>mi</code> ('Mustache If')</td>
+            <td><code>{{# variable }}what_to_do{{/ variable }}</code></td>
         </tr>
         <tr>
-            <td>`ml` ('Mustache Loop')</td>
+            <td><code>ml</code> ('Mustache Loop')</td>
             <td>like an if but with new lines</td>
         </tr>
         <tr>
-            <td>`mn` ('Mustache Not')</td>
-            <td>`{{# variable }}what_to_do_if_not{{/ variable }}`</td>
+            <td><code>mn</code> ('Mustache Not')</td>
+            <td><code>{{# variable }}what_to_do_if_not{{/ variable }}</code></td>
         </tr>
         <tr>
-            <td>`mnb` ('Mustache Not Block')</td>
+            <td><code>mnb</code> ('Mustache Not Block')</td>
             <td>like a not but with new lines</td>
         </tr>
         <tr>
-            <td>`mie` ('Mustache If/Else')</td>
-            <td>Double If then Not construct spread over lines</td>
+            <td><code>mie</code> ('Mustache If/Else')</td>
+            <td>Double if-not construct spread over lines</td>
         </tr>
     </tbody>
 </table>
