@@ -8,15 +8,53 @@ How to Use
 
 Set syntax to "HTML Mustache". Use the following snippets:
 
-`mc` ('Mustache Comment') -> `{{! comment }}`
-`mv` ('Mustache Variable') -> `{{ variable }}`
-`mvs` ('Mustache Variable (Safe)') -> `{{& variable }}`
-`mp` ('Mustache Partial') -> `{{> partial }}`
-`mi` ('Mustache If') -> `{{# variable }}what_to_do{{/ variable }}`
-`ml` ('Mustache Loop') - like an if but with new lines
-`mn` ('Mustache Not') -> `{{# variable }}what_to_do_if_not{{/ variable }}`
-`mnb` ('Mustache Not Block') - like a not but with new lines
-`mie` ('Mustache If/Else') -> Double If then Not construct spread over lines
+<table>
+    <thead>
+        <tr>
+            <th>Trigger</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>`mc` ('Mustache Comment')</td>
+            <td>`{{! comment }}`</td>
+        </tr>
+        <tr>
+            <td>`mv` ('Mustache Variable')</td>
+            <td>`{{ variable }}`</td>
+        </tr>
+        <tr>
+            <td>`mvs` ('Mustache Variable (Safe)')</td>
+            <td>`{{& variable }}`</td>
+        </tr>
+        <tr>
+            <td>`mp` ('Mustache Partial')</td>
+            <td>`{{> partial }}`</td>
+        </tr>
+        <tr>
+            <td>`mi` ('Mustache If')</td>
+            <td>`{{# variable }}what_to_do{{/ variable }}`</td>
+        </tr>
+        <tr>
+            <td>`ml` ('Mustache Loop')</td>
+            <td>like an if but with new lines</td>
+        </tr>
+        <tr>
+            <td>`mn` ('Mustache Not')</td>
+            <td>`{{# variable }}what_to_do_if_not{{/ variable }}`</td>
+        </tr>
+        <tr>
+            <td>`mnb` ('Mustache Not Block')</td>
+            <td>like a not but with new lines</td>
+        </tr>
+        <tr>
+            <td>`mie` ('Mustache If/Else')</td>
+            <td>Double If then Not construct spread over lines</td>
+        </tr>
+    </tbody>
+</table>
+
 
 
 License
