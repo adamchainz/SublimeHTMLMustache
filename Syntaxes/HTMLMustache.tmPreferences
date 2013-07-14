@@ -5,7 +5,7 @@
     <key>name</key>
     <string>Preferences</string>
     <key>scope</key>
-    <string>text.html.mustache</string>
+    <string>text.html.mustache, text.html.hgn</string>
     <key>settings</key>
     <dict>
         <key>shellVariables</key>
