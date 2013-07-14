@@ -4,5 +4,5 @@
 ]]></content>
     <tabTrigger>mvs</tabTrigger>
     <description>Mustache Variable (Safe)</description>
-    <scope>text.html.mustache</scope>
+    <scope>text.html.mustache, text.html.hgn</scope>
 </snippet>

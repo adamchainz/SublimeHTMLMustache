@@ -9,5 +9,5 @@ ${3:what_to_do_if_not}
 ]]></content>
     <tabTrigger>mie</tabTrigger>
     <description>Mustache If/Else</description>
-    <scope>text.html.mustache</scope>
+    <scope>text.html.mustache, text.html.hgn</scope>
 </snippet>

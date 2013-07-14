@@ -3,5 +3,5 @@
 \{\{^ ${1:variable} \}\}${2:what_to_do_if_not}\{\{/ ${1:variable} \}\}]]></content>
     <tabTrigger>mn</tabTrigger>
     <description>Mustache Not</description>
-    <scope>text.html.mustache</scope>
+    <scope>text.html.mustache, text.html.hgn</scope>
 </snippet>
