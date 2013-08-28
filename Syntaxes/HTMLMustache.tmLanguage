@@ -5,6 +5,7 @@
     <key>fileTypes</key>
     <array>
         <string>mustache</string>
+        <string>hgn</string>
     </array>
     <key>foldingStartMarker</key>
     <string>(?x)
@@ -52,6 +53,6 @@
         </dict>
     </array>
     <key>scopeName</key>
-    <string>text.html.mustache</string>
+    <string>txt.html.mustache, text.html.hgn</string>
 </dict>
 </plist>
