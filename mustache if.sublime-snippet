@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\{\{# ${1:variable} \}\}${2:what_to_do}\{\{/ ${1:variable} \}\}]]></content>
+\{\{# ${1:variable} \}\}${0:what_to_do}\{\{/ ${1:variable} \}\}]]></content>
     <tabTrigger>mi</tabTrigger>
     <description>Mustache If</description>
     <scope>text.html.mustache, text.html.hgn</scope>
