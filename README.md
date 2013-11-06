@@ -45,7 +45,7 @@ Set syntax to "HTML Mustache". Use the following snippets:
         </tr>
         <tr>
             <td><code>mn</code> ('Mustache Not')</td>
-            <td><code>{{# variable }}what_to_do_if_not{{/ variable }}</code></td>
+            <td><code>{{^ variable }}what_to_do_if_not{{/ variable }}</code></td>
         </tr>
         <tr>
             <td><code>mnb</code> ('Mustache Not Block')</td>
