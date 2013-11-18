@@ -6,6 +6,7 @@
     <array>
         <string>mustache</string>
         <string>hgn</string>
+        <string>hjs</string>
     </array>
     <key>foldingStartMarker</key>
     <string>(?x)

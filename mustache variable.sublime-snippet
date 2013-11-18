@@ -4,5 +4,5 @@
 ]]></content>
     <tabTrigger>mv</tabTrigger>
     <description>Mustache Variable</description>
-    <scope>text.html.mustache, text.html.hgn</scope>
+    <scope>text.html.mustache, text.html.hgn, text.html.hjs</scope>
 </snippet>

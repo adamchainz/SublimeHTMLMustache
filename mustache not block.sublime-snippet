@@ -5,5 +5,5 @@ ${0:what_to_do_if_not}
 \{\{/ ${1:variable} \}\}]]></content>
     <tabTrigger>mnb</tabTrigger>
     <description>Mustache Not Block</description>
-    <scope>text.html.mustache, text.html.hgn</scope>
+    <scope>text.html.mustache, text.html.hgn, text.html.hjs</scope>
 </snippet>
