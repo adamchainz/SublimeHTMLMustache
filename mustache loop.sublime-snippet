@@ -6,5 +6,5 @@ ${0:loop code}
 ]]></content>
     <tabTrigger>ml</tabTrigger>
     <description>Mustache Loop</description>
-    <scope>text.html.mustache, text.html.hgn</scope>
+    <scope>text.html.mustache, text.html.hgn, text.html.hjs</scope>
 </snippet>
