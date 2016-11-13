@@ -1,7 +1,7 @@
 SublimeHTMLMustache
 ===================
 
-Adds HTML [Mustache][2] as a language to [Sublime Text 2/3][1], with snippets. Syntax file obtained from [mwunsch's sublime repo][3]. Supports `.mustache`, `.hjs`, and `.hgn` ([Hogan](http://twitter.github.io/hogan.js)) files.
+Adds HTML [Mustache][2] as a language to [Sublime Text 2/3][1], with snippets. Syntax file obtained from [mwunsch's sublime repo][3]. Supports `.mustache`, `.mst`, `.hjs`, and `.hgn` ([Hogan](http://twitter.github.io/hogan.js)) files.
 
 Installation
 ============
