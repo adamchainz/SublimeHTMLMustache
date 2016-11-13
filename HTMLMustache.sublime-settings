@@ -1,3 +1,8 @@
 {
-    "extensions": ["hgn", "hjs", "mst", "mustache"]
+    "extensions": [
+        "hgn",
+        "hjs",
+        "mst",
+        "mustache",
+    ]
 }
